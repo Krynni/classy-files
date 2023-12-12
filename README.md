@@ -132,6 +132,13 @@
 
 [<img src="https://aida-auto.ru/userfiles/TG-channel.png" alt="telegram link" height="50">](https://t.me/classyPlusUpdates)
 
+## Обновления
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FKrynni%2Fclassy-files%2Freleases?style=for-the-badge&logo=github&label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E%20%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D1%83&link=https%3A%2F%2Fgithub.com%2FKrynni%2Fclassy-files%2Freleases)
+
+> если ссылка выше не работает, то нажмите [сюда.](https://github.com/Krynni/classy-files/releases)
+
+
 ## Что нужно реализовать? (или уже реализовано)
 
 - [x] **Расписание студентов (Все пары студента на неделю, с возможностью выбрать четность )**
